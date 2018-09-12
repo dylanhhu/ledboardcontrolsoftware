@@ -1,0 +1,8 @@
+brightness = 100
+color1 = 255
+color2 = 255
+color3 = 255
+mode = setcolor
+delayrainbow = 500
+^^valid options are rainbow, setcolor
+^^delay is in milliseconds
